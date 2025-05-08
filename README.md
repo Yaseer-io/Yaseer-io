@@ -5,7 +5,7 @@
   <img src="GitHub.jpg" 
        alt="Achievements" 
        style="border: 3px solid #2ecc71; 
-              border-radius: 15px; 
+              border-radius: 300px; 
               box-shadow: 0 8px 16px rgba(46, 204, 113, 0.3);
               padding: 10px;
               background: blue;
