@@ -2,17 +2,6 @@
 <h3 align="center">💻 Frontend Alchemist | 🎨 UI/UX Enthusiast | 🇳🇬 Coding from Nigeria</h3>
 
 <p align="center" style="position: relative;">
-  <img src="GitHub.jpg" 
-       alt="Achievements" 
-       style="border: 3px solid #2ecc71; 
-              border-radius: 300px; 
-              box-shadow: 0 8px 16px rgba(46, 204, 113, 0.3);
-              padding: 10px;
-              background: blue;
-              transition: transform 0.3s ease;
-              max-width: 100%;"
-       onmouseover="this.style.transform='scale(1.02)'"
-       onmouseout="this.style.transform='scale(1)'">
 </p>
 
 <p align="center" style="margin-top: 15px;">
