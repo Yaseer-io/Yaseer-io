@@ -32,7 +32,7 @@
 - 🔥 **Current Obsession:** Building pixel-perfect experiences with React & Vue
 - 🚧 **Latest Project:** Crafting [MegaXU](https://github.com/daudagaya/MegaXU) - *"A team that codes together, grows together!"*
 - 🛠️ **Seeking Collabs:** Open-source contributors wanted! *"Many hands make light work." – John Heywood*
-- ☁️ **DevOps Quest:** Learning CI/CD pipelines - *"It’s not a bug; it’s an undocumented feature!"*
+- ☁️ **DevOps Quest:** Learning CI/CD pipelines - *"It’s not a bug; it’s an undocumented feature!"* 
 - 📬 **Reach Out:** yaseerdaudagaya10@gmail.com | [Book a Chat](https://calendly.com/daudagaya)
 - 🤣 **Fun Fact:** *"I told my computer I needed a break... now it won’t stop sending me Kit-Kat ads!"*
 
